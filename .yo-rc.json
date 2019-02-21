@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.epf.practice",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "com.epf.practice",
+    "packageFolder": "com/epf/practice",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODgzOTQ1NGE1ZjcwMTMwNTVhZTRkZjljMjY3MmU4NTg4ZWE3MzdmMTVjYjk0YzQ2MmE5MDgzMDNjYTgyZmVmY2RhMzc0NmEwYTk2YTZlOGIyZDMxOGU1OGZhMWE1Y2Q0NzE4ZWM5NmYzYTNhYjhkNWI3NmMzOTM1Y2EyZGJhNjY=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn"
+    ]
+  }
+}
